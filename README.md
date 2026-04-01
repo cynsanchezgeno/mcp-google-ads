@@ -1,5 +1,4 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cohnen-mcp-google-ads-badge.png)](https://mseep.ai/app/cohnen-mcp-google-ads)
-
+GENOTIPO 
 # Google Ads MCP
 
 ![Google Ads MCP](bg.jpeg)
