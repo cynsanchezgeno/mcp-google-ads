@@ -696,13 +696,3 @@ Found a bug or have an idea for improvement? We welcome your input! Open an issu
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## About ixigo
-
-ixigo is India's leading travel app, helping millions of travelers find the best deals on flights, trains, buses, and hotels. For more information, visit [ixigo.com](https://www.ixigo.com).
-
-<img src="ixigo-logo.png" alt="ixigo logo" width="200px" />
-
-ixigo is a technology company that builds products to help people find the best deals on flights, trains, buses, and hotels. We're a team of travel enthusiasts who are passionate about making travel more affordable and accessible to everyone.
