@@ -1,10 +1,8 @@
 GENOTIPO 
 # Google Ads MCP
 
-![Google Ads MCP](bg.jpeg)
 
-A tool that connects [Google Ads](https://ads.google.com/) with Claude AI, allowing you to analyze your advertising data through natural language conversations. This integration gives you access to campaign information, performance metrics, keyword analytics, and ad management—all through simple chat with Claude.
-
+Una herramienta MCP que conecta Google Ads con Claude AI y otras plataformas, permitiendo analizar  datos publicitarios mediante conversaciones. Esta integración te da acceso a información de la campaña, métricas de rendimiento, análisis de palabras clave y gestión de anuncios. 
 ---
 
 ## What Can This Tool Do For Advertising Professionals?
