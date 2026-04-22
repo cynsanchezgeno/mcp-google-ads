@@ -54,3 +54,8 @@ site/
 google_ads_token.json
 
 uv.lock
+.env
+.venv/
+credentials.json
+service_account_credentials.json
+.DS_Store
